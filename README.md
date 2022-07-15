@@ -11,7 +11,7 @@ Minecraft Application Programming Interface made with such a cool language.
 
 - [ ] Create Game Object
 - [ ] Create World Object
-- [ ] Create Block Object
+- [x] Create Block Object
 - [ ] Implement Types of Blocks
 - [ ] Implement World Generation
 - [ ] Create Entity Object
