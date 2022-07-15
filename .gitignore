@@ -1,0 +1,9 @@
+# Editor
+.vscode
+.idea
+*.swp
+*~
+
+# OS
+.DS_Store
+.DS_Store?
