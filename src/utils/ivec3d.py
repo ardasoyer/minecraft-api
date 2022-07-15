@@ -7,4 +7,5 @@ class IVec3d:
     y: int
     z: int
 
-    # TODO: operations
+    def dot(self, other):  # Dot product
+        return self.x * other.x + self.y * other.y + self.z * other.z
