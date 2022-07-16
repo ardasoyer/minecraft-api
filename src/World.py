@@ -2,7 +2,7 @@ from typing import List
 from enum import Enum, auto
 from dataclasses import dataclass
 
-from Chunk import Chunk
+from chunk import Chunk
 
 
 class WorldType(Enum):
